@@ -1,0 +1,38 @@
+19
+cse174
+cse271
+cse274
+eng101
+eng102
+cse464
+cse485
+cse381
+mth151
+mth231
+mth251
+eng111
+eng112
+cse201
+cse262
+cse278
+cse283
+cse465
+cse486
+eng101 eng102 1
+cse174 cse271 1
+cse271 cse274 1
+cse274 cse464 1
+cse274 cse485 1
+mth151 mth231 1
+mth151 mth251 1
+mth231 cse464 1
+eng111 eng112 1
+cse271 cse201 1
+eng111 cse262 1
+cse271 cse278 1
+cse271 cse283 1
+mth231 cse465 1
+cse274 cse465 1
+mth231 cse486 1
+cse274 cse486 1
+cse274 cse381 1
